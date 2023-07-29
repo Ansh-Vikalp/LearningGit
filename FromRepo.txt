@@ -1,0 +1,4 @@
+This file in now going to be pulled to our working directory.
+Cmds:-
+git checkout master "Swiches to a master branch of remote"
+git pull origin master "Pull new files from origin master branch"
